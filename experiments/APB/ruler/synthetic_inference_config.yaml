@@ -1,0 +1,14 @@
+tokens_to_generate:
+  niah_single_1: 128
+  niah_single_2: 128
+  niah_single_3: 128
+  niah_multikey_1: 128
+  niah_multikey_2: 128
+  niah_multikey_3: 128
+  niah_multivalue: 128
+  niah_multiquery: 128
+  vt: 30
+  cwe: 120
+  fwe: 120
+  qa_1: 32
+  qa_2: 32

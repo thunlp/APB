@@ -89,5 +89,5 @@ Please cite our [paper](https://arxiv.org/abs/xxxx) if you find our work valuabl
 
 ## Acknowledgement
 
-The benchmark framework is partially adapted from [Star Attention](https://github.com/NVIDIA/Star-Attention), [MInference](https://github.com/microsoft/MInference), [RULER](https://github.com/NVIDIA/RULER), and [InfiniteBench](https://github.com/OpenBMB/InfiniteBench). We deeply thank the authors of these code repo for their contribution to the long-context inference community.
+The benchmark framework is partially adapted from [Star Attention](https://github.com/NVIDIA/Star-Attention), [MInference](https://github.com/microsoft/MInference), [RULER](https://github.com/NVIDIA/RULER), and [InfiniteBench](https://github.com/OpenBMB/InfiniteBench). We deeply thank the authors of these code repos for their contribution to the long-context inference community.
 

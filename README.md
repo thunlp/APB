@@ -45,10 +45,10 @@ pip install experiments/ring-flash-attention-main
 
 |BackBone Model | HF Repo |
 | - | - |
-| Llama-3.1-8B-instruct | [Link](https://huggingface.co/hyx21/APB-Locret-llama-3.1-8B-instruct) |
-| Qwen-2.5-14B-instruct | [Link](https://huggingface.co/hyx21/APB-Locret-qwen-2.5-14B-instruct) |
-| Yi-34B-200K | [Link](https://huggingface.co/hyx21/APB-Locret-Yi-34B-200K/upload/main)|
-| Llama-3-8B-1M-instruct | [Link](https://huggingface.co/hyx21/APB-Locret-llama-3-8B-1M-instruct)|
+| Llama-3.1-8B-instruct | [Link](https://huggingface.co/thunlp/APB-Locret-llama-3.1-8B-instruct) |
+| Qwen-2.5-14B-instruct | [Link](https://huggingface.co/thunlp/APB-Locret-qwen-2.5-14B-instruct) |
+| Yi-34B-200K | [Link](https://huggingface.co/thunlp/APB-Locret-Yi-34B-200K/upload/main)|
+| Llama-3-8B-1M-instruct | [Link](https://huggingface.co/thunlp/APB-Locret-llama-3-8B-1M-instruct)|
 
 ### Example
 

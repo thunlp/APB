@@ -2,7 +2,7 @@
 
 <h1>APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs</h1>
 
-**10x Lossless Long-Context Inference Speedup with Sequence Parallelism-Aware Approximate Attention. [[Paper]]()**
+**10x Lossless Long-Context Inference Speedup with Paralleled Approximate Attention. [[Paper]]()**
 </div>
 
 APB is a distributed long-context inference framework that leverages multi-host approximate attention to enhance inference speed, achieving speedups of up to **9.2x**, **4.2x**, and **1.6x** compared to **Flash Attention**, **Ring Attention**, and **Star Attention**, respectively.
@@ -48,6 +48,7 @@ pip install experiments/ring-flash-attention-main
 | Llama-3.1-8B-instruct | [Link](https://huggingface.co/hyx21/APB-Locret-llama-3.1-8B-instruct) |
 | Qwen-2.5-14B-instruct | [Link](https://huggingface.co/hyx21/APB-Locret-qwen-2.5-14B-instruct) |
 | Yi-34B-200K | [Link](https://huggingface.co/hyx21/APB-Locret-Yi-34B-200K/upload/main)|
+| Llama-3-8B-1M-instruct | [Link](https://huggingface.co/hyx21/APB-Locret-llama-3-8B-1M-instruct)|
 
 ### Example
 

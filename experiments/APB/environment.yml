@@ -1,4 +1,4 @@
-name: yourname
+name: apb_env
 channels:
   - nvidia/label/cuda-12.4.0
   - pytorch
@@ -304,4 +304,4 @@ dependencies:
       - xxhash==3.5.0
       - yarl==1.18.0
       - zstandard==0.23.0
-prefix: /home/test/test01/anaconda3/envs/duo
+prefix: /home/test/test01/anaconda3/envs/apb_env

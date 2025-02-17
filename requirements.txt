@@ -1,0 +1,7 @@
+torch==2.5.1
+flash-attn==2.6.3
+transformers==4.45.2
+tokenizers==0.20.3
+accelerate
+datasets
+sentencepiece

@@ -50,7 +50,7 @@ else:
 PACKAGE_NAME = "flash_attn_apb"
 
 BASE_WHEEL_URL = (
-    ""
+    "https://github.com/Dao-AILab/flash-attention/releases/download/{tag_name}/{wheel_name}"
 )
 
 # FORCE_BUILD: Force a fresh build locally, instead of attempting to find prebuilt wheels
@@ -500,12 +500,12 @@ setup(
             "flash_attn_apb.egg-info",
         )
     ),
-    author="",
-    author_email="",
+    author="Tri Dao",
+    author_email="trid@cs.stanford.edu",
     description="Flash Attention: Fast and Memory-Efficient Exact Attention",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/Dao-AILab/flash-attention",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: BSD License",

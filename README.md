@@ -41,6 +41,14 @@ pip install experiments/flash-attention-apb
 pip install experiments/ring-flash-attention-main
 ```
 
+### Download Retaining Heads
+
+|BackBone Model | HF Repo |
+| - | - |
+| Llama-3.1-8B-instruct | [Link](https://huggingface.co/hyx21/APB-Locret-llama-3.1-8B-instruct) |
+| Qwen-2.5-14B-instruct | [Link](https://huggingface.co/hyx21/APB-Locret-qwen-2.5-14B-instruct) |
+| Yi-34B-200K | [Link](https://huggingface.co/hyx21/APB-Locret-Yi-34B-200K/upload/main)|
+
 ### Example
 
 We provide an example of using APB to process an NIAH-Simple-1-like query with 8 GPUs.

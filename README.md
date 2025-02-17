@@ -2,7 +2,15 @@
 
 <h1>APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs</h1>
 
-**10x Lossless Long-Context Inference Speedup with Paralleled Approximate Attention. [[Paper]]()**
+<p align="center">
+<a href="https://huangyuxiang03.github.io/blogs_apb" target="_blank">Blog</a> |
+<a href="https://huangyuxiang03.github.io/blogs_apb_zh" target="_blank">中文博客</a> |
+<a href="https://arxiv.org/abs/2410.01805" target="_blank">Paper (ArXiV)</a> 
+</a>
+ 
+</p>
+
+**10x Lossless Long-Context Inference Speedup with Sequence Parallelism-Aware Approximate Attention**
 </div>
 
 APB is a distributed long-context inference framework that leverages multi-host approximate attention to enhance inference speed, achieving speedups of up to **9.2x**, **4.2x**, and **1.6x** compared to **Flash Attention**, **Ring Attention**, and **Star Attention**, respectively.

@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://huangyuxiang03.github.io/blogs_apb" target="_blank">Blog</a> |
 <a href="https://huangyuxiang03.github.io/blogs_apb_zh" target="_blank">中文博客</a> |
-<a href="https://arxiv.org/abs/2410.01805" target="_blank">Paper (ArXiV)</a> 
+<a href="https://arxiv.org/abs/2502.12085" target="_blank">Paper (ArXiV)</a> 
 </a>
  
 </p>
@@ -84,13 +84,13 @@ Please setup the environment first, then refer to `experiments/README.md` for de
 
 ## Citation
 
-Please cite our [paper](https://arxiv.org/abs/xxxx) if you find our work valuable.
+Please cite our [paper](https://arxiv.org/abs/2502.12085) if you find our work valuable.
 
 ```
 @article{huang2025apb,
   title={APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs},
   author={Yuxiang Huang, Mingye Li, Xu Han, Chaojun Xiao, Weilin Zhao, Sun Ao, Hao Zhou, Jie Zhou, Zhiyuan Liu, Maosong Sun},
-  journal={arXiv preprint arXiv:xxxx},
+  journal={arXiv preprint arXiv:2502.12085},
   year={2025}
 }
 ```

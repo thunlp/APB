@@ -89,7 +89,7 @@ Please cite our [paper](https://arxiv.org/abs/2502.12085) if you find our work v
 ```
 @article{huang2025apb,
   title={APB: Accelerating Distributed Long-Context Inference by Passing Compressed Context Blocks across GPUs},
-  author={Yuxiang Huang, Mingye Li, Xu Han, Chaojun Xiao, Weilin Zhao, Sun Ao, Hao Zhou, Jie Zhou, Zhiyuan Liu, Maosong Sun},
+  author={Huang, Yuxiang and Li, Mingye and Han, Xu and Xiao, Chaojun and Zhao, Weilin and Sun, Ao and Zhou, Hao and Zhou, Jie and Liu, Zhiyuan and Sun, Maosong},
   journal={arXiv preprint arXiv:2502.12085},
   year={2025}
 }

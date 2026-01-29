@@ -129,21 +129,21 @@ Please follow the original repo of [LongVideoBench](https://github.com/longvideo
 - LongVideoBench
 ```
 cd experiments_spava/longvideobench
-bash run.sh # detailed instructions on running the code is provided in run.sh
+bash run.sh # detailed instructions on running the code are provided in run.sh
 cd - 
 ```
 
 - VNBench
 ```
 cd experiments_spava/vnbench
-bash run.sh # detailed instructions on running the code is provided in run.sh
+bash run.sh # detailed instructions on running the code are provided in run.sh
 cd -
 ```
 
 - Speed Test
 ```
 cd experiments_spava/speed_test
-bash run.sh # detailed instructions on running the code is provided in run.sh
+bash run.sh # detailed instructions on running the code are provided in run.sh
 cd -
 ```
 

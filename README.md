@@ -108,7 +108,7 @@ conda activate spava
 ```
 Install all the dependencies by:
 ```
-pip install -r requirements.txt
+pip install -r requirements_spava.txt
 pip install flash_attn==2.6.3 --no-build-isolation
 ```
 Install the `flash-attention-apb` and `ring-flash-attention`

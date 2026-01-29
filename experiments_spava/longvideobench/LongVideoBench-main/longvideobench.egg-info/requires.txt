@@ -1,0 +1,4 @@
+torch>=2.1.1
+decord
+torchvision
+pillow

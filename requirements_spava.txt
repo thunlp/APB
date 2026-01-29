@@ -1,0 +1,12 @@
+decord==0.6.0
+networkx==3.2.1
+opencv_python==4.11.0.86
+opencv_python_headless==4.11.0.86
+psutil==7.0.0
+sentencepiece==0.2.0
+setuptools==75.8.0
+torch==2.5.1
+torchvision
+tqdm==4.67.1
+transformers==4.51.2
+xattn==0.0.1

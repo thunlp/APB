@@ -92,10 +92,10 @@ Please setup the environment first, then refer to `experiments_apb/README.md` fo
 
 We extend the idea of accelerating long-context prefill via approximate attention on multiple GPUs to long-video understanding, and we improve APB from the following aspects:
 
-- Training free: We find that identifying the essential KVs via query-aware selection is more efficient than training a retaining head in long-video understanding, due to the informationredundancy in videos.
-- Load balancing: APB suffers from load imbalancing across hosts. We construct a ZigZag style load balancing strategy to alleviate this problem.
+- Training free: We find that identifying the essential KVs via query-aware selection is more efficient than training a retaining head in long-video understanding, due to the information redundancy in videos.
+- Load balancing: APB suffers from imbalanced computation load across hosts. We construct a ZigZag style load balancing strategy to alleviate this problem.
 - Communication-computation overlapping: Each physical host contains two virtual hosts. Communication of the second virtual host's passing block can be overlapped with the attention calculation of the first virtual host.
-- Other optimizations that benefits both performance and efficiency.
+- Other optimizations that benefit both performance and efficiency.
 
 ### Usage 
 

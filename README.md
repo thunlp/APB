@@ -6,7 +6,7 @@
 <a href="https://huangyuxiang03.github.io/blogs_apb" target="_blank">Blog</a> |
 <a href="https://huangyuxiang03.github.io/blogs_apb_zh" target="_blank">中文博客</a> |
 <a href="https://aclanthology.org/2025.acl-long.525.pdf" target="_blank">APB Paper (ACL 2025)</a> |
-<a href="TODO" target="_blank">Spava Paper (Arxiv)</a> 
+<a href="https://arxiv.org/pdf/2601.21444" target="_blank">Spava Paper (Arxiv)</a> 
 </a>
  
 </p>
@@ -150,7 +150,7 @@ cd -
 
 ## Citation
 
-Please cite our papers ([APB](https://aclanthology.org/2025.acl-long.525.pdf), [Spava](TODO)) if you find our work valuable.
+Please cite our papers ([APB](https://aclanthology.org/2025.acl-long.525.pdf), [Spava](https://arxiv.org/pdf/2601.21444)) if you find our work valuable.
 
 ```
 @article{huang2025apb,
@@ -163,7 +163,7 @@ Please cite our papers ([APB](https://aclanthology.org/2025.acl-long.525.pdf), [
 @article{huang2026spava,
   title={Spava: Accelerating Long-Video Understanding via Sequence-Parallelism-aware Approximate Attention},
   author={Huang, Yuxiang and Li, Mingye and Han, Xu and Xiao, Chaojun and Zhao, Weilin and Sun, Ao and Zhou, Hao and Meng, Fandong and Liu, Zhiyuan},
-  journal={TODO},
+  journal={arXiv preprint arXiv:2601.21444},
   year={2026}
 }
 ```

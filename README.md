@@ -163,7 +163,7 @@ Please cite our papers ([APB](https://aclanthology.org/2025.acl-long.525.pdf), [
 @article{huang2026spava,
   title={Spava: Accelerating Long-Video Understanding via Sequence-Parallelism-aware Approximate Attention},
   author={Huang, Yuxiang and Li, Mingye and Han, Xu and Xiao, Chaojun and Zhao, Weilin and Sun, Ao and Zhou, Hao and Meng, Fandong and Liu, Zhiyuan},
-  journal={arXiv preprint arXiv:2601.21444},
+  journal={Proceedings of ACL},
   year={2026}
 }
 ```

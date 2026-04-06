@@ -6,7 +6,7 @@
 <a href="https://huangyuxiang03.github.io/blogs_apb" target="_blank">Blog</a> |
 <a href="https://huangyuxiang03.github.io/blogs_apb_zh" target="_blank">中文博客</a> |
 <a href="https://aclanthology.org/2025.acl-long.525.pdf" target="_blank">APB Paper (ACL 2025)</a> |
-<a href="https://arxiv.org/pdf/2601.21444" target="_blank">Spava Paper (Arxiv)</a> 
+<a href="https://arxiv.org/pdf/2601.21444" target="_blank">Spava Paper (ACL 2026)</a> 
 </a>
  
 </p>
